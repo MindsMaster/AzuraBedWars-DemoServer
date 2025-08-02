@@ -1,0 +1,21 @@
+{
+  "gameScoreboard": {
+    "title": "§e§l超级起床战争",
+    "serverInfo": "§bas.azuramc.cc",
+    "myTeamMark": " §7(我的队伍)",
+    "bedDestroyed": "§7❤",
+    "bedAlive": "§c❤",
+    "separator": "§f | ",
+    "emptyLine": "",
+    "updateInterval": 500
+  },
+  "lobbyScoreboard": {
+    "title": "§e§l超级起床战争",
+    "serverInfo": "§bas.azuramc.cc",
+    "waitingMessage": "§f等待中...",
+    "emptyLine": "",
+    "defaultMode": "普通模式",
+    "expMode": "经验模式",
+    "updateInterval": 500
+  }
+}

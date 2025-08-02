@@ -1,0 +1,125 @@
+{
+  "destroyBed": {
+    "title": {
+      "titleString": "§c§l床自毁",
+      "subtitle": "§e所有队伍床消失"
+    },
+    "eventName": "床自毁"
+  },
+  "diamondUpdate": {
+    "eventName": "钻石刷新"
+  },
+  "emeraldUpdate": {
+    "eventName": "绿宝石刷新"
+  },
+  "shutdown": {
+    "eventName": "游戏关闭"
+  },
+  "over": {
+    "eventName": "游戏结束"
+  },
+  "start": {
+    "title": {
+      "titleString": "§c§l游戏即将开始",
+      "subtitle": "§e§l"
+    },
+    "eventName": "开始游戏",
+    "teamUpgradeTaskName": "团队升级"
+  },
+  "generator": {
+    "ironGeneratorName": "铁刷新",
+    "goldGeneratorName": "金刷新",
+    "diamondGeneratorName": "钻石刷新",
+    "diamondTimeDisplay": "钻石时间显示",
+    "emeraldGeneratorName": "绿宝石刷新",
+    "emeraldTimeDisplay": "绿宝石时间显示",
+    "timeRemainingFormat": "§e将在§c%d§e秒后刷新",
+    "diamondName": "§b钻石",
+    "emeraldName": "§2绿宝石",
+    "levelI": "§e等级 §cI",
+    "levelII": "§e等级 §cII",
+    "levelIII": "§e等级 §cIII"
+  },
+  "gameStart": {
+    "title": {
+      "titleCountdown": "§c§l%d",
+      "subtitleText": "§e§l准备战斗吧！"
+    },
+    "msgCountdown": "§e游戏将在§c%d§e秒后开始！",
+    "msgNotEnoughPlayers": "§c人数不足，取消倒计时！",
+    "msgGameFull": "§e游戏人数已满,10秒后开始游戏！"
+  },
+  "gameOver": {
+    "victoryTitle": "§6§l获胜！",
+    "victorySubtitle": "§7你获得了最终的胜利",
+    "defeatTitle": "§c§l失败！",
+    "defeatSubtitle": "§7你输掉了这场游戏",
+    "lead": [
+      "§e§l击杀数第一名",
+      "§6§l击杀数第二名",
+      "§c§l击杀数第三名"
+    ],
+    "separatorLine": "§a▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
+    "gameTitle": "§f                                              §l起床战争",
+    "winnersPrefix": "                                    §e胜利者 §7- ",
+    "noWinner": "§7无",
+    "rankPrefix": "                          "
+  },
+  "warpPowder": {
+    "teleportStartMessage": "§a在 §c%d§a 秒后你将被传送，请不要移动!",
+    "teleportCancelMessage": "§c你的传送被取消!"
+  },
+  "game": {
+    "msgPlayerReconnect": "§7%s§a重连上线",
+    "msgPlayerLeave": "§7%s§e离开游戏"
+  },
+  "playerDeath": {
+    "coinsActionBar": "§6+1个金币",
+    "coinsMessage": "§6+1个金币 (最终击杀)"
+  },
+  "playerRespawn": {
+    "respawnCountdownTitle": "§e§l%d",
+    "respawnCountdownSubTitle": "§7你死了 将在稍后重生",
+    "respawnCompleteTitle": "§a已复活！",
+    "respawnCompleteSubTitle": "§7因为你的床还在 所以你复活了",
+    "deathPermanentTitle": "§c你凉了！",
+    "deathPermanentSubTitle": "§7你没床了",
+    "teamEliminatedFormat": "§7▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃",
+    "teamEliminatedMessage": "%s §c凉了! §e挖床者: %s",
+    "playAgainMessage": "§c你凉了!想再来一局吗? ",
+    "playAgainButton": "§b§l点击这里!",
+    "playAgainCommand": "/not impl now"
+  },
+  "spectator": {
+    "compassGUI": {
+      "guiTitle": "§8选择一个玩家来传送",
+      "healthFormat": "§f血量: §8%d",
+      "foodFormat": "§f饥饿: §8%d",
+      "levelFormat": "§f等级: §8%d",
+      "distanceFormat": "§f距离: §8%d"
+    },
+    "settingGUI": {
+      "guiTitle": "§8旁观者设置",
+      "speedRemoved": "§c你不再有任何速度效果！",
+      "speedAdded": "§a你获得了 速度 %s 效果！",
+      "autoTPEnabled": "§a你开启了自动传送功能！",
+      "autoTPDisabled": "§c你不再被自动传送到目标位置！",
+      "nightVersionEnabled": "§a你现在拥有了夜视！",
+      "nightVersionDisabled": "§c你不再有夜视效果了！",
+      "firstPersonEnabled": "§a当你用你的指南针现在一个玩家后，你会被自动传送到他那里！",
+      "firstPersonDisabled": "§c你将默认使用第三人称模式！",
+      "hideOthersEnabled": "§c你不会再看到其他的旁观者！",
+      "hideOthersDisabled": "§a你现在可以看见其他旁观者了！",
+      "flyEnabled": "§a你现在不能停止飞行！",
+      "flyDisabled": "§a你现在能停止飞行！"
+    },
+    "target": {
+      "targetLostMessage": "§c§l目标已丢失或不在同一个世界",
+      "firstPersonTitle": "§a正在旁观§7%s",
+      "firstPersonSubTitle": "§a点击左键打开菜单  §c按Shift键退出",
+      "firstPersonActionBar": "§f目标: §a§l%s  §f生命值: §a§l%d §c§l❤",
+      "thirdPersonActionBar": "§f目标: §a§l%s  §f生命值: §a§l%d  §f距离: §a§l%s米",
+      "menuHint": "  §a点击左键打开菜单  §c按Shift退出"
+    }
+  }
+}

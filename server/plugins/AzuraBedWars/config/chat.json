@@ -1,0 +1,8 @@
+{
+  "globalChatPrefix": "!",
+  "spectatorPrefix": "§7[旁观者]",
+  "globalChatTag": "§6[全局]",
+  "teamChatTag": "§9[团队]",
+  "chatSeparator": "§7: ",
+  "globalChatCooldown": 10
+}

@@ -1,0 +1,34 @@
+{
+  "rescuePlatform": {
+    "defaultBreakTime": 12,
+    "defaultWaitTime": 20,
+    "jumpBoost": 0.7
+  },
+  "warpPowder": {
+    "defaultTeleportTime": 6,
+    "circleElements": 20,
+    "particleRadius": 1.0,
+    "particleHeight": 2.0,
+    "circleCount": 15.0,
+    "cancelItemName": "§4取消传送"
+  },
+  "speedWoolHandler": {
+    "maxSpeedWoolLength": 6
+  },
+  "eggBridge": {
+    "eggCooldownSeconds": 3,
+    "eggCooldownMessage": "\u0026c搭桥蛋冷却中！"
+  },
+  "fireBall": {
+    "fireballExplosionRadiusX": 4,
+    "fireballExplosionRadiusY": 3,
+    "fireballExplosionRadiusZ": 4,
+    "fireballDamage": 3,
+    "fireballKnockbackMultiplier": 0.5
+  },
+  "gameManager": {
+    "resourceSelectorName": "§a资源类型选择 §7(右键选择)",
+    "teamSelectorName": "§e队伍选择 §7(右键选择)",
+    "leaveGameName": "§c离开游戏 §7(右键离开)"
+  }
+}
