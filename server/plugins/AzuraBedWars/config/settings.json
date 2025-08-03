@@ -1,9 +1,10 @@
 {
   "editorMode": false,
-  "debugMode": true,
-  "defaultMapName": "",
+  "debugMode": false,
+  "teamBlockSearchRadius": 15,
   "mapStorage": "JSON",
   "enabledJedisMapFeature": false,
+  "defaultMapName": "game",
   "database": {
     "host": "localhost",
     "port": 3306,
@@ -11,11 +12,35 @@
     "password": "123456",
     "database": "azurabw"
   },
+  "chatConfig": {
+    "globalChatPrefix": "!",
+    "spectatorPrefix": "§7[旁观者]",
+    "globalChatTag": "§6[全局]",
+    "teamChatTag": "§9[团队]",
+    "chatSeparator": "§7: ",
+    "globalChatCooldown": 10
+  },
+  "gameScoreboard": {
+    "title": "§e§l超级起床战争",
+    "serverInfo": "§bas.azuramc.cc",
+    "myTeamMark": " §7(我的队伍)",
+    "bedDestroyed": "§7❤",
+    "bedAlive": "§c❤",
+    "separator": "§f | ",
+    "emptyLine": "",
+    "updateInterval": 500
+  },
+  "lobbyScoreboard": {
+    "title": "§e§l超级起床战争",
+    "serverInfo": "§bas.azuramc.cc",
+    "waitingMessage": "§f等待中...",
+    "emptyLine": "",
+    "defaultMode": "普通模式",
+    "expMode": "经验模式",
+    "updateInterval": 500
+  },
   "displayDamage": {
     "arrowDisplayEnabled": true,
     "attackDisplayEnabled": true
-  },
-  "setupMap": {
-    "teamBlockSearchRadius": 15
   }
 }
