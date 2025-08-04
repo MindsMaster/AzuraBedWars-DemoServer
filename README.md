@@ -1,2 +1,2 @@
-AzuraBedWars 测试样本服务端 (MC 1.8.8)
-Version: 1.0.0-Pre-alpha
+- AzuraBedWars 测试样本服务端 (MC 1.8.8)
+- Plugin Version: 1.0.0-beta.5
