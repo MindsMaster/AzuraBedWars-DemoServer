@@ -1,2 +1,2 @@
 - AzuraBedWars 测试样本服务端 (MC 1.8.8)
-- Plugin Version: 1.0.0-beta.5
+- We are using AzuraBedWarsLoader now, its will auto download/update AzuraBedWarsPlugin.
