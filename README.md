@@ -1,2 +1,4 @@
 - AzuraBedWars 测试样本服务端 (MC 1.8.8)
+- AzuraBedWars Test Server Demo (MC 1.8.8)
+- 我们目前正在使用AzuraBedWarsLoader，它会自动下载/更新AzuraBedWarsPlugin
 - We are using AzuraBedWarsLoader now, its will auto download/update AzuraBedWarsPlugin.
